@@ -122,3 +122,6 @@ sudo mysql -u root <vulnerablelaravel.sql
 ```
 
 ### Go to the project using this url `localhost:8000`
+
+## Visualization 
+![image](https://github.com/user-attachments/assets/61a0dfc3-d661-4a4c-a2c2-9a717cb036e6)
